@@ -1,0 +1,4 @@
+config:
+  client:
+    number: 1
+    msg: hello world 1
